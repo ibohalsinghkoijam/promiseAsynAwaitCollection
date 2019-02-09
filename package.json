@@ -1,0 +1,23 @@
+{
+  "name": "promiseAsynAwaitCollection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibohalsinghkoijam/promiseAsynAwaitCollection.git"
+  },
+  "keywords": [],
+  "author": "KOIJAM IBOHAL SINGH (http://koijamishika.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibohalsinghkoijam/promiseAsynAwaitCollection/issues"
+  },
+  "homepage": "https://github.com/ibohalsinghkoijam/promiseAsynAwaitCollection#readme",
+  "dependencies": {
+    "rxjs": "^5.5.11"
+  }
+}
